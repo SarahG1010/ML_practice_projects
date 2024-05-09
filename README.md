@@ -1,2 +1,3 @@
-# This is the disaster response web project
+# This is a repo with my ML projects 
+
 This is the repo for my practices project for ML 
